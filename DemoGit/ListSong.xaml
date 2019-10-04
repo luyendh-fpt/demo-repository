@@ -9,6 +9,9 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <StackPanel AllowDrop="True">
+            <TextBlock>Hello song From member1</TextBlock>
+            <TextBlock>Hoàn thành trách nhiệm</TextBlock>
+        </StackPanel>
     </Grid>
 </Page>
